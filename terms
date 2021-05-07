@@ -1,0 +1,4 @@
+augment
+dropout
+mixed_precision
+resnet
