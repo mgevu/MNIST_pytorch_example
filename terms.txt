@@ -1,3 +1,4 @@
+CNN
 augment
 dropout
 mixed_precision
